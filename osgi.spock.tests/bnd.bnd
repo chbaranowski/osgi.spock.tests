@@ -1,0 +1,36 @@
+-buildpath:  \
+	osgi.core;version=5.0.0,\
+	${junit},\
+	org.mockito.mockito-all,\
+	groovy-all,\
+	spock-core-0.7-groovy,\
+	org.knowhowlab.osgi.testing.utils,\
+	biz.aQute.bnd.annotation,\
+	osgi.echo;version=snapshot
+	
+-runpath:  \
+	groovy-all,\
+	spock-core-0.7-groovy,\
+	org.knowhowlab.osgi.testing.utils
+
+-runee: JavaSE-1.8
+-runfw: org.apache.felix.framework
+-runsystempackages:  \
+	sun.reflect,\
+	org.spockframework.lang,\
+	org.spockframework.mock,\
+	org.spockframework.runtime,\
+	org.spockframework.runtime.model,\
+	org.spockframework.mock.runtime,\
+	spock.lang
+-runvm: -ea
+-runbundles:  \
+	org.apache.felix.scr,\
+	osgi.echo
+
+Bundle-Version: 0.0.0.${tstamp}
+Private-Package:  \
+	osgi.demo.test
+Test-Cases:  \
+	${classes;CONCRETE;EXTENDS;spock.lang.Specification},\
+	${classes;ANNOTATION;org.junit.Test}

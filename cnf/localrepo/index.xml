@@ -1,0 +1,1140 @@
+<?xml version="1.0" encoding="utf-8"?>
+<repository increment="1412535430700" name="Local" xmlns="http://www.osgi.org/xmlns/repository/v1.0.0">
+  <resource>
+    <capability namespace="osgi.identity">
+      <attribute name="osgi.identity" value="groovy-all"/>
+      <attribute name="type" value="osgi.bundle"/>
+      <attribute name="version" type="Version" value="2.3.6"/>
+    </capability>
+    <capability namespace="osgi.content">
+      <attribute name="osgi.content" value="c3084f02f0ae6dc5df7d80d90d327817a54d89a513be89a2bd1d4e6e1c2264f9"/>
+      <attribute name="url" value="groovy-all/groovy-all-2.3.6.jar"/>
+      <attribute name="size" type="Long" value="7273397"/>
+      <attribute name="mime" value="application/vnd.osgi.bundle"/>
+    </capability>
+    <capability namespace="osgi.wiring.bundle">
+      <attribute name="osgi.wiring.bundle" value="groovy-all"/>
+      <attribute name="bundle-version" type="Version" value="2.3.6"/>
+    </capability>
+    <capability namespace="osgi.wiring.host">
+      <attribute name="osgi.wiring.host" value="groovy-all"/>
+      <attribute name="bundle-version" type="Version" value="2.3.6"/>
+    </capability>
+    <capability namespace="osgi.wiring.package">
+      <attribute name="osgi.wiring.package" value="groovy.beans"/>
+      <attribute name="version" type="Version" value="2.3.6"/>
+      <attribute name="bundle-symbolic-name" value="groovy-all"/>
+      <attribute name="bundle-version" type="Version" value="2.3.6"/>
+    </capability>
+    <capability namespace="osgi.wiring.package">
+      <attribute name="osgi.wiring.package" value="groovy.grape"/>
+      <attribute name="version" type="Version" value="2.3.6"/>
+      <attribute name="bundle-symbolic-name" value="groovy-all"/>
+      <attribute name="bundle-version" type="Version" value="2.3.6"/>
+    </capability>
+    <capability namespace="osgi.wiring.package">
+      <attribute name="osgi.wiring.package" value="groovy.inspect"/>
+      <attribute name="version" type="Version" value="2.3.6"/>
+      <attribute name="bundle-symbolic-name" value="groovy-all"/>
+      <attribute name="bundle-version" type="Version" value="2.3.6"/>
+    </capability>
+    <capability namespace="osgi.wiring.package">
+      <attribute name="osgi.wiring.package" value="groovy.inspect.swingui"/>
+      <attribute name="version" type="Version" value="2.3.6"/>
+      <attribute name="bundle-symbolic-name" value="groovy-all"/>
+      <attribute name="bundle-version" type="Version" value="2.3.6"/>
+    </capability>
+    <capability namespace="osgi.wiring.package">
+      <attribute name="osgi.wiring.package" value="groovy.io"/>
+      <attribute name="version" type="Version" value="2.3.6"/>
+      <attribute name="bundle-symbolic-name" value="groovy-all"/>
+      <attribute name="bundle-version" type="Version" value="2.3.6"/>
+    </capability>
+    <capability namespace="osgi.wiring.package">
+      <attribute name="osgi.wiring.package" value="groovy.jmx.builder"/>
+      <attribute name="version" type="Version" value="2.3.6"/>
+      <attribute name="bundle-symbolic-name" value="groovy-all"/>
+      <attribute name="bundle-version" type="Version" value="2.3.6"/>
+    </capability>
+    <capability namespace="osgi.wiring.package">
+      <attribute name="osgi.wiring.package" value="groovy.json"/>
+      <attribute name="version" type="Version" value="2.3.6"/>
+      <attribute name="bundle-symbolic-name" value="groovy-all"/>
+      <attribute name="bundle-version" type="Version" value="2.3.6"/>
+    </capability>
+    <capability namespace="osgi.wiring.package">
+      <attribute name="osgi.wiring.package" value="groovy.json.internal"/>
+      <attribute name="version" type="Version" value="2.3.6"/>
+      <attribute name="bundle-symbolic-name" value="groovy-all"/>
+      <attribute name="bundle-version" type="Version" value="2.3.6"/>
+    </capability>
+    <capability namespace="osgi.wiring.package">
+      <attribute name="osgi.wiring.package" value="groovy.lang"/>
+      <attribute name="version" type="Version" value="2.3.6"/>
+      <attribute name="bundle-symbolic-name" value="groovy-all"/>
+      <attribute name="bundle-version" type="Version" value="2.3.6"/>
+    </capability>
+    <capability namespace="osgi.wiring.package">
+      <attribute name="osgi.wiring.package" value="groovy.mock.interceptor"/>
+      <attribute name="version" type="Version" value="2.3.6"/>
+      <attribute name="bundle-symbolic-name" value="groovy-all"/>
+      <attribute name="bundle-version" type="Version" value="2.3.6"/>
+    </capability>
+    <capability namespace="osgi.wiring.package">
+      <attribute name="osgi.wiring.package" value="groovy.model"/>
+      <attribute name="version" type="Version" value="2.3.6"/>
+      <attribute name="bundle-symbolic-name" value="groovy-all"/>
+      <attribute name="bundle-version" type="Version" value="2.3.6"/>
+    </capability>
+    <capability namespace="osgi.wiring.package">
+      <attribute name="osgi.wiring.package" value="groovy.security"/>
+      <attribute name="version" type="Version" value="2.3.6"/>
+      <attribute name="bundle-symbolic-name" value="groovy-all"/>
+      <attribute name="bundle-version" type="Version" value="2.3.6"/>
+    </capability>
+    <capability namespace="osgi.wiring.package">
+      <attribute name="osgi.wiring.package" value="groovy.servlet"/>
+      <attribute name="version" type="Version" value="2.3.6"/>
+      <attribute name="bundle-symbolic-name" value="groovy-all"/>
+      <attribute name="bundle-version" type="Version" value="2.3.6"/>
+    </capability>
+    <capability namespace="osgi.wiring.package">
+      <attribute name="osgi.wiring.package" value="groovy.sql"/>
+      <attribute name="version" type="Version" value="2.3.6"/>
+      <attribute name="bundle-symbolic-name" value="groovy-all"/>
+      <attribute name="bundle-version" type="Version" value="2.3.6"/>
+    </capability>
+    <capability namespace="osgi.wiring.package">
+      <attribute name="osgi.wiring.package" value="groovy.swing"/>
+      <attribute name="version" type="Version" value="2.3.6"/>
+      <attribute name="bundle-symbolic-name" value="groovy-all"/>
+      <attribute name="bundle-version" type="Version" value="2.3.6"/>
+    </capability>
+    <capability namespace="osgi.wiring.package">
+      <attribute name="osgi.wiring.package" value="groovy.swing.binding"/>
+      <attribute name="version" type="Version" value="2.3.6"/>
+      <attribute name="bundle-symbolic-name" value="groovy-all"/>
+      <attribute name="bundle-version" type="Version" value="2.3.6"/>
+    </capability>
+    <capability namespace="osgi.wiring.package">
+      <attribute name="osgi.wiring.package" value="groovy.swing.factory"/>
+      <attribute name="version" type="Version" value="2.3.6"/>
+      <attribute name="bundle-symbolic-name" value="groovy-all"/>
+      <attribute name="bundle-version" type="Version" value="2.3.6"/>
+    </capability>
+    <capability namespace="osgi.wiring.package">
+      <attribute name="osgi.wiring.package" value="groovy.swing.impl"/>
+      <attribute name="version" type="Version" value="2.3.6"/>
+      <attribute name="bundle-symbolic-name" value="groovy-all"/>
+      <attribute name="bundle-version" type="Version" value="2.3.6"/>
+    </capability>
+    <capability namespace="osgi.wiring.package">
+      <attribute name="osgi.wiring.package" value="groovy.test"/>
+      <attribute name="version" type="Version" value="2.3.6"/>
+      <attribute name="bundle-symbolic-name" value="groovy-all"/>
+      <attribute name="bundle-version" type="Version" value="2.3.6"/>
+    </capability>
+    <capability namespace="osgi.wiring.package">
+      <attribute name="osgi.wiring.package" value="groovy.text"/>
+      <attribute name="version" type="Version" value="2.3.6"/>
+      <attribute name="bundle-symbolic-name" value="groovy-all"/>
+      <attribute name="bundle-version" type="Version" value="2.3.6"/>
+    </capability>
+    <capability namespace="osgi.wiring.package">
+      <attribute name="osgi.wiring.package" value="groovy.text.markup"/>
+      <attribute name="version" type="Version" value="2.3.6"/>
+      <attribute name="bundle-symbolic-name" value="groovy-all"/>
+      <attribute name="bundle-version" type="Version" value="2.3.6"/>
+    </capability>
+    <capability namespace="osgi.wiring.package">
+      <attribute name="osgi.wiring.package" value="groovy.time"/>
+      <attribute name="version" type="Version" value="2.3.6"/>
+      <attribute name="bundle-symbolic-name" value="groovy-all"/>
+      <attribute name="bundle-version" type="Version" value="2.3.6"/>
+    </capability>
+    <capability namespace="osgi.wiring.package">
+      <attribute name="osgi.wiring.package" value="groovy.transform"/>
+      <attribute name="version" type="Version" value="2.3.6"/>
+      <attribute name="bundle-symbolic-name" value="groovy-all"/>
+      <attribute name="bundle-version" type="Version" value="2.3.6"/>
+    </capability>
+    <capability namespace="osgi.wiring.package">
+      <attribute name="osgi.wiring.package" value="groovy.transform.builder"/>
+      <attribute name="version" type="Version" value="2.3.6"/>
+      <attribute name="bundle-symbolic-name" value="groovy-all"/>
+      <attribute name="bundle-version" type="Version" value="2.3.6"/>
+    </capability>
+    <capability namespace="osgi.wiring.package">
+      <attribute name="osgi.wiring.package" value="groovy.transform.stc"/>
+      <attribute name="version" type="Version" value="2.3.6"/>
+      <attribute name="bundle-symbolic-name" value="groovy-all"/>
+      <attribute name="bundle-version" type="Version" value="2.3.6"/>
+    </capability>
+    <capability namespace="osgi.wiring.package">
+      <attribute name="osgi.wiring.package" value="groovy.ui"/>
+      <attribute name="version" type="Version" value="2.3.6"/>
+      <attribute name="bundle-symbolic-name" value="groovy-all"/>
+      <attribute name="bundle-version" type="Version" value="2.3.6"/>
+    </capability>
+    <capability namespace="osgi.wiring.package">
+      <attribute name="osgi.wiring.package" value="groovy.ui.icons"/>
+      <attribute name="version" type="Version" value="2.3.6"/>
+      <attribute name="bundle-symbolic-name" value="groovy-all"/>
+      <attribute name="bundle-version" type="Version" value="2.3.6"/>
+    </capability>
+    <capability namespace="osgi.wiring.package">
+      <attribute name="osgi.wiring.package" value="groovy.ui.text"/>
+      <attribute name="version" type="Version" value="2.3.6"/>
+      <attribute name="bundle-symbolic-name" value="groovy-all"/>
+      <attribute name="bundle-version" type="Version" value="2.3.6"/>
+    </capability>
+    <capability namespace="osgi.wiring.package">
+      <attribute name="osgi.wiring.package" value="groovy.ui.view"/>
+      <attribute name="version" type="Version" value="2.3.6"/>
+      <attribute name="bundle-symbolic-name" value="groovy-all"/>
+      <attribute name="bundle-version" type="Version" value="2.3.6"/>
+    </capability>
+    <capability namespace="osgi.wiring.package">
+      <attribute name="osgi.wiring.package" value="groovy.util"/>
+      <attribute name="version" type="Version" value="2.3.6"/>
+      <attribute name="bundle-symbolic-name" value="groovy-all"/>
+      <attribute name="bundle-version" type="Version" value="2.3.6"/>
+    </capability>
+    <capability namespace="osgi.wiring.package">
+      <attribute name="osgi.wiring.package" value="groovy.util.logging"/>
+      <attribute name="version" type="Version" value="2.3.6"/>
+      <attribute name="bundle-symbolic-name" value="groovy-all"/>
+      <attribute name="bundle-version" type="Version" value="2.3.6"/>
+    </capability>
+    <capability namespace="osgi.wiring.package">
+      <attribute name="osgi.wiring.package" value="groovy.util.slurpersupport"/>
+      <attribute name="version" type="Version" value="2.3.6"/>
+      <attribute name="bundle-symbolic-name" value="groovy-all"/>
+      <attribute name="bundle-version" type="Version" value="2.3.6"/>
+    </capability>
+    <capability namespace="osgi.wiring.package">
+      <attribute name="osgi.wiring.package" value="groovy.xml"/>
+      <attribute name="version" type="Version" value="2.3.6"/>
+      <attribute name="bundle-symbolic-name" value="groovy-all"/>
+      <attribute name="bundle-version" type="Version" value="2.3.6"/>
+    </capability>
+    <capability namespace="osgi.wiring.package">
+      <attribute name="osgi.wiring.package" value="groovy.xml.dom"/>
+      <attribute name="version" type="Version" value="2.3.6"/>
+      <attribute name="bundle-symbolic-name" value="groovy-all"/>
+      <attribute name="bundle-version" type="Version" value="2.3.6"/>
+    </capability>
+    <capability namespace="osgi.wiring.package">
+      <attribute name="osgi.wiring.package" value="groovy.xml.streamingmarkupsupport"/>
+      <attribute name="version" type="Version" value="2.3.6"/>
+      <attribute name="bundle-symbolic-name" value="groovy-all"/>
+      <attribute name="bundle-version" type="Version" value="2.3.6"/>
+    </capability>
+    <capability namespace="osgi.wiring.package">
+      <attribute name="osgi.wiring.package" value="groovyjarjarantlr"/>
+      <attribute name="version" type="Version" value="2.3.6"/>
+      <attribute name="bundle-symbolic-name" value="groovy-all"/>
+      <attribute name="bundle-version" type="Version" value="2.3.6"/>
+    </capability>
+    <capability namespace="osgi.wiring.package">
+      <attribute name="osgi.wiring.package" value="groovyjarjarantlr.ASdebug"/>
+      <attribute name="version" type="Version" value="2.3.6"/>
+      <attribute name="bundle-symbolic-name" value="groovy-all"/>
+      <attribute name="bundle-version" type="Version" value="2.3.6"/>
+    </capability>
+    <capability namespace="osgi.wiring.package">
+      <attribute name="osgi.wiring.package" value="groovyjarjarantlr.actions.cpp"/>
+      <attribute name="version" type="Version" value="2.3.6"/>
+      <attribute name="bundle-symbolic-name" value="groovy-all"/>
+      <attribute name="bundle-version" type="Version" value="2.3.6"/>
+    </capability>
+    <capability namespace="osgi.wiring.package">
+      <attribute name="osgi.wiring.package" value="groovyjarjarantlr.actions.csharp"/>
+      <attribute name="version" type="Version" value="2.3.6"/>
+      <attribute name="bundle-symbolic-name" value="groovy-all"/>
+      <attribute name="bundle-version" type="Version" value="2.3.6"/>
+    </capability>
+    <capability namespace="osgi.wiring.package">
+      <attribute name="osgi.wiring.package" value="groovyjarjarantlr.actions.java"/>
+      <attribute name="version" type="Version" value="2.3.6"/>
+      <attribute name="bundle-symbolic-name" value="groovy-all"/>
+      <attribute name="bundle-version" type="Version" value="2.3.6"/>
+    </capability>
+    <capability namespace="osgi.wiring.package">
+      <attribute name="osgi.wiring.package" value="groovyjarjarantlr.actions.python"/>
+      <attribute name="version" type="Version" value="2.3.6"/>
+      <attribute name="bundle-symbolic-name" value="groovy-all"/>
+      <attribute name="bundle-version" type="Version" value="2.3.6"/>
+    </capability>
+    <capability namespace="osgi.wiring.package">
+      <attribute name="osgi.wiring.package" value="groovyjarjarantlr.build"/>
+      <attribute name="version" type="Version" value="2.3.6"/>
+      <attribute name="bundle-symbolic-name" value="groovy-all"/>
+      <attribute name="bundle-version" type="Version" value="2.3.6"/>
+    </capability>
+    <capability namespace="osgi.wiring.package">
+      <attribute name="osgi.wiring.package" value="groovyjarjarantlr.collections"/>
+      <attribute name="version" type="Version" value="2.3.6"/>
+      <attribute name="bundle-symbolic-name" value="groovy-all"/>
+      <attribute name="bundle-version" type="Version" value="2.3.6"/>
+    </capability>
+    <capability namespace="osgi.wiring.package">
+      <attribute name="osgi.wiring.package" value="groovyjarjarantlr.collections.impl"/>
+      <attribute name="version" type="Version" value="2.3.6"/>
+      <attribute name="bundle-symbolic-name" value="groovy-all"/>
+      <attribute name="bundle-version" type="Version" value="2.3.6"/>
+    </capability>
+    <capability namespace="osgi.wiring.package">
+      <attribute name="osgi.wiring.package" value="groovyjarjarantlr.debug"/>
+      <attribute name="version" type="Version" value="2.3.6"/>
+      <attribute name="bundle-symbolic-name" value="groovy-all"/>
+      <attribute name="bundle-version" type="Version" value="2.3.6"/>
+    </capability>
+    <capability namespace="osgi.wiring.package">
+      <attribute name="osgi.wiring.package" value="groovyjarjarantlr.debug.misc"/>
+      <attribute name="version" type="Version" value="2.3.6"/>
+      <attribute name="bundle-symbolic-name" value="groovy-all"/>
+      <attribute name="bundle-version" type="Version" value="2.3.6"/>
+    </capability>
+    <capability namespace="osgi.wiring.package">
+      <attribute name="osgi.wiring.package" value="groovyjarjarantlr.preprocessor"/>
+      <attribute name="version" type="Version" value="2.3.6"/>
+      <attribute name="bundle-symbolic-name" value="groovy-all"/>
+      <attribute name="bundle-version" type="Version" value="2.3.6"/>
+    </capability>
+    <capability namespace="osgi.wiring.package">
+      <attribute name="osgi.wiring.package" value="groovyjarjarasm.asm"/>
+      <attribute name="version" type="Version" value="2.3.6"/>
+      <attribute name="bundle-symbolic-name" value="groovy-all"/>
+      <attribute name="bundle-version" type="Version" value="2.3.6"/>
+    </capability>
+    <capability namespace="osgi.wiring.package">
+      <attribute name="osgi.wiring.package" value="groovyjarjarasm.asm.commons"/>
+      <attribute name="version" type="Version" value="2.3.6"/>
+      <attribute name="bundle-symbolic-name" value="groovy-all"/>
+      <attribute name="bundle-version" type="Version" value="2.3.6"/>
+    </capability>
+    <capability namespace="osgi.wiring.package">
+      <attribute name="osgi.wiring.package" value="groovyjarjarasm.asm.signature"/>
+      <attribute name="version" type="Version" value="2.3.6"/>
+      <attribute name="bundle-symbolic-name" value="groovy-all"/>
+      <attribute name="bundle-version" type="Version" value="2.3.6"/>
+    </capability>
+    <capability namespace="osgi.wiring.package">
+      <attribute name="osgi.wiring.package" value="groovyjarjarasm.asm.tree"/>
+      <attribute name="version" type="Version" value="2.3.6"/>
+      <attribute name="bundle-symbolic-name" value="groovy-all"/>
+      <attribute name="bundle-version" type="Version" value="2.3.6"/>
+    </capability>
+    <capability namespace="osgi.wiring.package">
+      <attribute name="osgi.wiring.package" value="groovyjarjarasm.asm.util"/>
+      <attribute name="version" type="Version" value="2.3.6"/>
+      <attribute name="bundle-symbolic-name" value="groovy-all"/>
+      <attribute name="bundle-version" type="Version" value="2.3.6"/>
+    </capability>
+    <capability namespace="osgi.wiring.package">
+      <attribute name="osgi.wiring.package" value="groovyjarjarcommonscli"/>
+      <attribute name="version" type="Version" value="2.3.6"/>
+      <attribute name="bundle-symbolic-name" value="groovy-all"/>
+      <attribute name="bundle-version" type="Version" value="2.3.6"/>
+    </capability>
+    <capability namespace="osgi.wiring.package">
+      <attribute name="osgi.wiring.package" value="org.codehaus.groovy"/>
+      <attribute name="version" type="Version" value="2.3.6"/>
+      <attribute name="bundle-symbolic-name" value="groovy-all"/>
+      <attribute name="bundle-version" type="Version" value="2.3.6"/>
+    </capability>
+    <capability namespace="osgi.wiring.package">
+      <attribute name="osgi.wiring.package" value="org.codehaus.groovy.ant"/>
+      <attribute name="version" type="Version" value="2.3.6"/>
+      <attribute name="bundle-symbolic-name" value="groovy-all"/>
+      <attribute name="bundle-version" type="Version" value="2.3.6"/>
+    </capability>
+    <capability namespace="osgi.wiring.package">
+      <attribute name="osgi.wiring.package" value="org.codehaus.groovy.antlr"/>
+      <attribute name="version" type="Version" value="2.3.6"/>
+      <attribute name="bundle-symbolic-name" value="groovy-all"/>
+      <attribute name="bundle-version" type="Version" value="2.3.6"/>
+    </capability>
+    <capability namespace="osgi.wiring.package">
+      <attribute name="osgi.wiring.package" value="org.codehaus.groovy.antlr.java"/>
+      <attribute name="version" type="Version" value="2.3.6"/>
+      <attribute name="bundle-symbolic-name" value="groovy-all"/>
+      <attribute name="bundle-version" type="Version" value="2.3.6"/>
+    </capability>
+    <capability namespace="osgi.wiring.package">
+      <attribute name="osgi.wiring.package" value="org.codehaus.groovy.antlr.parser"/>
+      <attribute name="version" type="Version" value="2.3.6"/>
+      <attribute name="bundle-symbolic-name" value="groovy-all"/>
+      <attribute name="bundle-version" type="Version" value="2.3.6"/>
+    </capability>
+    <capability namespace="osgi.wiring.package">
+      <attribute name="osgi.wiring.package" value="org.codehaus.groovy.antlr.treewalker"/>
+      <attribute name="version" type="Version" value="2.3.6"/>
+      <attribute name="bundle-symbolic-name" value="groovy-all"/>
+      <attribute name="bundle-version" type="Version" value="2.3.6"/>
+    </capability>
+    <capability namespace="osgi.wiring.package">
+      <attribute name="osgi.wiring.package" value="org.codehaus.groovy.ast"/>
+      <attribute name="version" type="Version" value="2.3.6"/>
+      <attribute name="bundle-symbolic-name" value="groovy-all"/>
+      <attribute name="bundle-version" type="Version" value="2.3.6"/>
+    </capability>
+    <capability namespace="osgi.wiring.package">
+      <attribute name="osgi.wiring.package" value="org.codehaus.groovy.ast.builder"/>
+      <attribute name="version" type="Version" value="2.3.6"/>
+      <attribute name="bundle-symbolic-name" value="groovy-all"/>
+      <attribute name="bundle-version" type="Version" value="2.3.6"/>
+    </capability>
+    <capability namespace="osgi.wiring.package">
+      <attribute name="osgi.wiring.package" value="org.codehaus.groovy.ast.expr"/>
+      <attribute name="version" type="Version" value="2.3.6"/>
+      <attribute name="bundle-symbolic-name" value="groovy-all"/>
+      <attribute name="bundle-version" type="Version" value="2.3.6"/>
+    </capability>
+    <capability namespace="osgi.wiring.package">
+      <attribute name="osgi.wiring.package" value="org.codehaus.groovy.ast.stmt"/>
+      <attribute name="version" type="Version" value="2.3.6"/>
+      <attribute name="bundle-symbolic-name" value="groovy-all"/>
+      <attribute name="bundle-version" type="Version" value="2.3.6"/>
+    </capability>
+    <capability namespace="osgi.wiring.package">
+      <attribute name="osgi.wiring.package" value="org.codehaus.groovy.ast.tools"/>
+      <attribute name="version" type="Version" value="2.3.6"/>
+      <attribute name="bundle-symbolic-name" value="groovy-all"/>
+      <attribute name="bundle-version" type="Version" value="2.3.6"/>
+    </capability>
+    <capability namespace="osgi.wiring.package">
+      <attribute name="osgi.wiring.package" value="org.codehaus.groovy.binding"/>
+      <attribute name="version" type="Version" value="2.3.6"/>
+      <attribute name="bundle-symbolic-name" value="groovy-all"/>
+      <attribute name="bundle-version" type="Version" value="2.3.6"/>
+    </capability>
+    <capability namespace="osgi.wiring.package">
+      <attribute name="osgi.wiring.package" value="org.codehaus.groovy.bsf"/>
+      <attribute name="version" type="Version" value="2.3.6"/>
+      <attribute name="bundle-symbolic-name" value="groovy-all"/>
+      <attribute name="bundle-version" type="Version" value="2.3.6"/>
+    </capability>
+    <capability namespace="osgi.wiring.package">
+      <attribute name="osgi.wiring.package" value="org.codehaus.groovy.classgen"/>
+      <attribute name="version" type="Version" value="2.3.6"/>
+      <attribute name="bundle-symbolic-name" value="groovy-all"/>
+      <attribute name="bundle-version" type="Version" value="2.3.6"/>
+    </capability>
+    <capability namespace="osgi.wiring.package">
+      <attribute name="osgi.wiring.package" value="org.codehaus.groovy.classgen.asm"/>
+      <attribute name="version" type="Version" value="2.3.6"/>
+      <attribute name="bundle-symbolic-name" value="groovy-all"/>
+      <attribute name="bundle-version" type="Version" value="2.3.6"/>
+    </capability>
+    <capability namespace="osgi.wiring.package">
+      <attribute name="osgi.wiring.package" value="org.codehaus.groovy.classgen.asm.sc"/>
+      <attribute name="version" type="Version" value="2.3.6"/>
+      <attribute name="bundle-symbolic-name" value="groovy-all"/>
+      <attribute name="bundle-version" type="Version" value="2.3.6"/>
+    </capability>
+    <capability namespace="osgi.wiring.package">
+      <attribute name="osgi.wiring.package" value="org.codehaus.groovy.cli"/>
+      <attribute name="version" type="Version" value="2.3.6"/>
+      <attribute name="bundle-symbolic-name" value="groovy-all"/>
+      <attribute name="bundle-version" type="Version" value="2.3.6"/>
+    </capability>
+    <capability namespace="osgi.wiring.package">
+      <attribute name="osgi.wiring.package" value="org.codehaus.groovy.control"/>
+      <attribute name="version" type="Version" value="2.3.6"/>
+      <attribute name="bundle-symbolic-name" value="groovy-all"/>
+      <attribute name="bundle-version" type="Version" value="2.3.6"/>
+    </capability>
+    <capability namespace="osgi.wiring.package">
+      <attribute name="osgi.wiring.package" value="org.codehaus.groovy.control.customizers"/>
+      <attribute name="version" type="Version" value="2.3.6"/>
+      <attribute name="bundle-symbolic-name" value="groovy-all"/>
+      <attribute name="bundle-version" type="Version" value="2.3.6"/>
+    </capability>
+    <capability namespace="osgi.wiring.package">
+      <attribute name="osgi.wiring.package" value="org.codehaus.groovy.control.customizers.builder"/>
+      <attribute name="version" type="Version" value="2.3.6"/>
+      <attribute name="bundle-symbolic-name" value="groovy-all"/>
+      <attribute name="bundle-version" type="Version" value="2.3.6"/>
+    </capability>
+    <capability namespace="osgi.wiring.package">
+      <attribute name="osgi.wiring.package" value="org.codehaus.groovy.control.io"/>
+      <attribute name="version" type="Version" value="2.3.6"/>
+      <attribute name="bundle-symbolic-name" value="groovy-all"/>
+      <attribute name="bundle-version" type="Version" value="2.3.6"/>
+    </capability>
+    <capability namespace="osgi.wiring.package">
+      <attribute name="osgi.wiring.package" value="org.codehaus.groovy.control.messages"/>
+      <attribute name="version" type="Version" value="2.3.6"/>
+      <attribute name="bundle-symbolic-name" value="groovy-all"/>
+      <attribute name="bundle-version" type="Version" value="2.3.6"/>
+    </capability>
+    <capability namespace="osgi.wiring.package">
+      <attribute name="osgi.wiring.package" value="org.codehaus.groovy.groovydoc"/>
+      <attribute name="version" type="Version" value="2.3.6"/>
+      <attribute name="bundle-symbolic-name" value="groovy-all"/>
+      <attribute name="bundle-version" type="Version" value="2.3.6"/>
+    </capability>
+    <capability namespace="osgi.wiring.package">
+      <attribute name="osgi.wiring.package" value="org.codehaus.groovy.jsr223"/>
+      <attribute name="version" type="Version" value="2.3.6"/>
+      <attribute name="bundle-symbolic-name" value="groovy-all"/>
+      <attribute name="bundle-version" type="Version" value="2.3.6"/>
+    </capability>
+    <capability namespace="osgi.wiring.package">
+      <attribute name="osgi.wiring.package" value="org.codehaus.groovy.plugin"/>
+      <attribute name="version" type="Version" value="2.3.6"/>
+      <attribute name="bundle-symbolic-name" value="groovy-all"/>
+      <attribute name="bundle-version" type="Version" value="2.3.6"/>
+    </capability>
+    <capability namespace="osgi.wiring.package">
+      <attribute name="osgi.wiring.package" value="org.codehaus.groovy.reflection"/>
+      <attribute name="version" type="Version" value="2.3.6"/>
+      <attribute name="bundle-symbolic-name" value="groovy-all"/>
+      <attribute name="bundle-version" type="Version" value="2.3.6"/>
+    </capability>
+    <capability namespace="osgi.wiring.package">
+      <attribute name="osgi.wiring.package" value="org.codehaus.groovy.reflection.stdclasses"/>
+      <attribute name="version" type="Version" value="2.3.6"/>
+      <attribute name="bundle-symbolic-name" value="groovy-all"/>
+      <attribute name="bundle-version" type="Version" value="2.3.6"/>
+    </capability>
+    <capability namespace="osgi.wiring.package">
+      <attribute name="osgi.wiring.package" value="org.codehaus.groovy.runtime"/>
+      <attribute name="version" type="Version" value="2.3.6"/>
+      <attribute name="bundle-symbolic-name" value="groovy-all"/>
+      <attribute name="bundle-version" type="Version" value="2.3.6"/>
+    </capability>
+    <capability namespace="osgi.wiring.package">
+      <attribute name="osgi.wiring.package" value="org.codehaus.groovy.runtime.callsite"/>
+      <attribute name="version" type="Version" value="2.3.6"/>
+      <attribute name="bundle-symbolic-name" value="groovy-all"/>
+      <attribute name="bundle-version" type="Version" value="2.3.6"/>
+    </capability>
+    <capability namespace="osgi.wiring.package">
+      <attribute name="osgi.wiring.package" value="org.codehaus.groovy.runtime.dgmimpl"/>
+      <attribute name="version" type="Version" value="2.3.6"/>
+      <attribute name="bundle-symbolic-name" value="groovy-all"/>
+      <attribute name="bundle-version" type="Version" value="2.3.6"/>
+    </capability>
+    <capability namespace="osgi.wiring.package">
+      <attribute name="osgi.wiring.package" value="org.codehaus.groovy.runtime.dgmimpl.arrays"/>
+      <attribute name="version" type="Version" value="2.3.6"/>
+      <attribute name="bundle-symbolic-name" value="groovy-all"/>
+      <attribute name="bundle-version" type="Version" value="2.3.6"/>
+    </capability>
+    <capability namespace="osgi.wiring.package">
+      <attribute name="osgi.wiring.package" value="org.codehaus.groovy.runtime.m12n"/>
+      <attribute name="version" type="Version" value="2.3.6"/>
+      <attribute name="bundle-symbolic-name" value="groovy-all"/>
+      <attribute name="bundle-version" type="Version" value="2.3.6"/>
+    </capability>
+    <capability namespace="osgi.wiring.package">
+      <attribute name="osgi.wiring.package" value="org.codehaus.groovy.runtime.memoize"/>
+      <attribute name="version" type="Version" value="2.3.6"/>
+      <attribute name="bundle-symbolic-name" value="groovy-all"/>
+      <attribute name="bundle-version" type="Version" value="2.3.6"/>
+    </capability>
+    <capability namespace="osgi.wiring.package">
+      <attribute name="osgi.wiring.package" value="org.codehaus.groovy.runtime.metaclass"/>
+      <attribute name="version" type="Version" value="2.3.6"/>
+      <attribute name="bundle-symbolic-name" value="groovy-all"/>
+      <attribute name="bundle-version" type="Version" value="2.3.6"/>
+    </capability>
+    <capability namespace="osgi.wiring.package">
+      <attribute name="osgi.wiring.package" value="org.codehaus.groovy.runtime.powerassert"/>
+      <attribute name="version" type="Version" value="2.3.6"/>
+      <attribute name="bundle-symbolic-name" value="groovy-all"/>
+      <attribute name="bundle-version" type="Version" value="2.3.6"/>
+    </capability>
+    <capability namespace="osgi.wiring.package">
+      <attribute name="osgi.wiring.package" value="org.codehaus.groovy.runtime.typehandling"/>
+      <attribute name="version" type="Version" value="2.3.6"/>
+      <attribute name="bundle-symbolic-name" value="groovy-all"/>
+      <attribute name="bundle-version" type="Version" value="2.3.6"/>
+    </capability>
+    <capability namespace="osgi.wiring.package">
+      <attribute name="osgi.wiring.package" value="org.codehaus.groovy.runtime.wrappers"/>
+      <attribute name="version" type="Version" value="2.3.6"/>
+      <attribute name="bundle-symbolic-name" value="groovy-all"/>
+      <attribute name="bundle-version" type="Version" value="2.3.6"/>
+    </capability>
+    <capability namespace="osgi.wiring.package">
+      <attribute name="osgi.wiring.package" value="org.codehaus.groovy.syntax"/>
+      <attribute name="version" type="Version" value="2.3.6"/>
+      <attribute name="bundle-symbolic-name" value="groovy-all"/>
+      <attribute name="bundle-version" type="Version" value="2.3.6"/>
+    </capability>
+    <capability namespace="osgi.wiring.package">
+      <attribute name="osgi.wiring.package" value="org.codehaus.groovy.testng"/>
+      <attribute name="version" type="Version" value="2.3.6"/>
+      <attribute name="bundle-symbolic-name" value="groovy-all"/>
+      <attribute name="bundle-version" type="Version" value="2.3.6"/>
+    </capability>
+    <capability namespace="osgi.wiring.package">
+      <attribute name="osgi.wiring.package" value="org.codehaus.groovy.tools"/>
+      <attribute name="version" type="Version" value="2.3.6"/>
+      <attribute name="bundle-symbolic-name" value="groovy-all"/>
+      <attribute name="bundle-version" type="Version" value="2.3.6"/>
+    </capability>
+    <capability namespace="osgi.wiring.package">
+      <attribute name="osgi.wiring.package" value="org.codehaus.groovy.tools.ast"/>
+      <attribute name="version" type="Version" value="2.3.6"/>
+      <attribute name="bundle-symbolic-name" value="groovy-all"/>
+      <attribute name="bundle-version" type="Version" value="2.3.6"/>
+    </capability>
+    <capability namespace="osgi.wiring.package">
+      <attribute name="osgi.wiring.package" value="org.codehaus.groovy.tools.groovydoc"/>
+      <attribute name="version" type="Version" value="2.3.6"/>
+      <attribute name="bundle-symbolic-name" value="groovy-all"/>
+      <attribute name="bundle-version" type="Version" value="2.3.6"/>
+    </capability>
+    <capability namespace="osgi.wiring.package">
+      <attribute name="osgi.wiring.package" value="org.codehaus.groovy.tools.groovydoc.gstringTemplates"/>
+      <attribute name="version" type="Version" value="2.3.6"/>
+      <attribute name="bundle-symbolic-name" value="groovy-all"/>
+      <attribute name="bundle-version" type="Version" value="2.3.6"/>
+    </capability>
+    <capability namespace="osgi.wiring.package">
+      <attribute name="osgi.wiring.package" value="org.codehaus.groovy.tools.groovydoc.gstringTemplates.classLevel"/>
+      <attribute name="version" type="Version" value="2.3.6"/>
+      <attribute name="bundle-symbolic-name" value="groovy-all"/>
+      <attribute name="bundle-version" type="Version" value="2.3.6"/>
+    </capability>
+    <capability namespace="osgi.wiring.package">
+      <attribute name="osgi.wiring.package" value="org.codehaus.groovy.tools.groovydoc.gstringTemplates.packageLevel"/>
+      <attribute name="version" type="Version" value="2.3.6"/>
+      <attribute name="bundle-symbolic-name" value="groovy-all"/>
+      <attribute name="bundle-version" type="Version" value="2.3.6"/>
+    </capability>
+    <capability namespace="osgi.wiring.package">
+      <attribute name="osgi.wiring.package" value="org.codehaus.groovy.tools.groovydoc.gstringTemplates.topLevel"/>
+      <attribute name="version" type="Version" value="2.3.6"/>
+      <attribute name="bundle-symbolic-name" value="groovy-all"/>
+      <attribute name="bundle-version" type="Version" value="2.3.6"/>
+    </capability>
+    <capability namespace="osgi.wiring.package">
+      <attribute name="osgi.wiring.package" value="org.codehaus.groovy.tools.gse"/>
+      <attribute name="version" type="Version" value="2.3.6"/>
+      <attribute name="bundle-symbolic-name" value="groovy-all"/>
+      <attribute name="bundle-version" type="Version" value="2.3.6"/>
+    </capability>
+    <capability namespace="osgi.wiring.package">
+      <attribute name="osgi.wiring.package" value="org.codehaus.groovy.tools.javac"/>
+      <attribute name="version" type="Version" value="2.3.6"/>
+      <attribute name="bundle-symbolic-name" value="groovy-all"/>
+      <attribute name="bundle-version" type="Version" value="2.3.6"/>
+    </capability>
+    <capability namespace="osgi.wiring.package">
+      <attribute name="osgi.wiring.package" value="org.codehaus.groovy.tools.shell"/>
+      <attribute name="version" type="Version" value="2.3.6"/>
+      <attribute name="bundle-symbolic-name" value="groovy-all"/>
+      <attribute name="bundle-version" type="Version" value="2.3.6"/>
+    </capability>
+    <capability namespace="osgi.wiring.package">
+      <attribute name="osgi.wiring.package" value="org.codehaus.groovy.tools.shell.commands"/>
+      <attribute name="version" type="Version" value="2.3.6"/>
+      <attribute name="bundle-symbolic-name" value="groovy-all"/>
+      <attribute name="bundle-version" type="Version" value="2.3.6"/>
+    </capability>
+    <capability namespace="osgi.wiring.package">
+      <attribute name="osgi.wiring.package" value="org.codehaus.groovy.tools.shell.completion"/>
+      <attribute name="version" type="Version" value="2.3.6"/>
+      <attribute name="bundle-symbolic-name" value="groovy-all"/>
+      <attribute name="bundle-version" type="Version" value="2.3.6"/>
+    </capability>
+    <capability namespace="osgi.wiring.package">
+      <attribute name="osgi.wiring.package" value="org.codehaus.groovy.tools.shell.util"/>
+      <attribute name="version" type="Version" value="2.3.6"/>
+      <attribute name="bundle-symbolic-name" value="groovy-all"/>
+      <attribute name="bundle-version" type="Version" value="2.3.6"/>
+    </capability>
+    <capability namespace="osgi.wiring.package">
+      <attribute name="osgi.wiring.package" value="org.codehaus.groovy.tools.xml"/>
+      <attribute name="version" type="Version" value="2.3.6"/>
+      <attribute name="bundle-symbolic-name" value="groovy-all"/>
+      <attribute name="bundle-version" type="Version" value="2.3.6"/>
+    </capability>
+    <capability namespace="osgi.wiring.package">
+      <attribute name="osgi.wiring.package" value="org.codehaus.groovy.transform"/>
+      <attribute name="version" type="Version" value="2.3.6"/>
+      <attribute name="bundle-symbolic-name" value="groovy-all"/>
+      <attribute name="bundle-version" type="Version" value="2.3.6"/>
+    </capability>
+    <capability namespace="osgi.wiring.package">
+      <attribute name="osgi.wiring.package" value="org.codehaus.groovy.transform.sc"/>
+      <attribute name="version" type="Version" value="2.3.6"/>
+      <attribute name="bundle-symbolic-name" value="groovy-all"/>
+      <attribute name="bundle-version" type="Version" value="2.3.6"/>
+    </capability>
+    <capability namespace="osgi.wiring.package">
+      <attribute name="osgi.wiring.package" value="org.codehaus.groovy.transform.sc.transformers"/>
+      <attribute name="version" type="Version" value="2.3.6"/>
+      <attribute name="bundle-symbolic-name" value="groovy-all"/>
+      <attribute name="bundle-version" type="Version" value="2.3.6"/>
+    </capability>
+    <capability namespace="osgi.wiring.package">
+      <attribute name="osgi.wiring.package" value="org.codehaus.groovy.transform.stc"/>
+      <attribute name="version" type="Version" value="2.3.6"/>
+      <attribute name="bundle-symbolic-name" value="groovy-all"/>
+      <attribute name="bundle-version" type="Version" value="2.3.6"/>
+    </capability>
+    <capability namespace="osgi.wiring.package">
+      <attribute name="osgi.wiring.package" value="org.codehaus.groovy.transform.tailrec"/>
+      <attribute name="version" type="Version" value="2.3.6"/>
+      <attribute name="bundle-symbolic-name" value="groovy-all"/>
+      <attribute name="bundle-version" type="Version" value="2.3.6"/>
+    </capability>
+    <capability namespace="osgi.wiring.package">
+      <attribute name="osgi.wiring.package" value="org.codehaus.groovy.transform.trait"/>
+      <attribute name="version" type="Version" value="2.3.6"/>
+      <attribute name="bundle-symbolic-name" value="groovy-all"/>
+      <attribute name="bundle-version" type="Version" value="2.3.6"/>
+    </capability>
+    <capability namespace="osgi.wiring.package">
+      <attribute name="osgi.wiring.package" value="org.codehaus.groovy.util"/>
+      <attribute name="version" type="Version" value="2.3.6"/>
+      <attribute name="bundle-symbolic-name" value="groovy-all"/>
+      <attribute name="bundle-version" type="Version" value="2.3.6"/>
+    </capability>
+    <capability namespace="osgi.wiring.package">
+      <attribute name="osgi.wiring.package" value="org.codehaus.groovy.vmplugin"/>
+      <attribute name="version" type="Version" value="2.3.6"/>
+      <attribute name="bundle-symbolic-name" value="groovy-all"/>
+      <attribute name="bundle-version" type="Version" value="2.3.6"/>
+    </capability>
+    <capability namespace="osgi.wiring.package">
+      <attribute name="osgi.wiring.package" value="org.codehaus.groovy.vmplugin.v5"/>
+      <attribute name="version" type="Version" value="2.3.6"/>
+      <attribute name="bundle-symbolic-name" value="groovy-all"/>
+      <attribute name="bundle-version" type="Version" value="2.3.6"/>
+    </capability>
+    <capability namespace="osgi.wiring.package">
+      <attribute name="osgi.wiring.package" value="org.codehaus.groovy.vmplugin.v6"/>
+      <attribute name="version" type="Version" value="2.3.6"/>
+      <attribute name="bundle-symbolic-name" value="groovy-all"/>
+      <attribute name="bundle-version" type="Version" value="2.3.6"/>
+    </capability>
+    <capability namespace="osgi.wiring.package">
+      <attribute name="osgi.wiring.package" value="overview.html"/>
+      <attribute name="version" type="Version" value="2.3.6"/>
+      <attribute name="bundle-symbolic-name" value="groovy-all"/>
+      <attribute name="bundle-version" type="Version" value="2.3.6"/>
+    </capability>
+    <capability namespace="osgi.wiring.package">
+      <attribute name="osgi.wiring.package" value="overviewj.html"/>
+      <attribute name="version" type="Version" value="2.3.6"/>
+      <attribute name="bundle-symbolic-name" value="groovy-all"/>
+      <attribute name="bundle-version" type="Version" value="2.3.6"/>
+    </capability>
+    <requirement namespace="osgi.wiring.package">
+      <directive name="filter" value="(osgi.wiring.package=com.thoughtworks.qdox)"/>
+      <directive name="resolution" value="optional"/>
+    </requirement>
+    <requirement namespace="osgi.wiring.package">
+      <directive name="filter" value="(osgi.wiring.package=com.thoughtworks.qdox.model)"/>
+      <directive name="resolution" value="optional"/>
+    </requirement>
+    <requirement namespace="osgi.wiring.package">
+      <directive name="filter" value="(&amp;(osgi.wiring.package=com.thoughtworks.xstream)(version&gt;=1.4.0)(!(version&gt;=2.0.0)))"/>
+      <directive name="resolution" value="optional"/>
+    </requirement>
+    <requirement namespace="osgi.wiring.package">
+      <directive name="filter" value="(osgi.wiring.package=groovyjarjarasm.asm.tree.analysis)"/>
+      <directive name="resolution" value="optional"/>
+    </requirement>
+    <requirement namespace="osgi.wiring.package">
+      <directive name="filter" value="(osgi.wiring.package=javax.accessibility)"/>
+      <directive name="resolution" value="optional"/>
+    </requirement>
+    <requirement namespace="osgi.wiring.package">
+      <directive name="filter" value="(osgi.wiring.package=javax.management)"/>
+      <directive name="resolution" value="optional"/>
+    </requirement>
+    <requirement namespace="osgi.wiring.package">
+      <directive name="filter" value="(osgi.wiring.package=javax.management.modelmbean)"/>
+      <directive name="resolution" value="optional"/>
+    </requirement>
+    <requirement namespace="osgi.wiring.package">
+      <directive name="filter" value="(osgi.wiring.package=javax.management.remote)"/>
+      <directive name="resolution" value="optional"/>
+    </requirement>
+    <requirement namespace="osgi.wiring.package">
+      <directive name="filter" value="(osgi.wiring.package=javax.management.remote.rmi)"/>
+      <directive name="resolution" value="optional"/>
+    </requirement>
+    <requirement namespace="osgi.wiring.package">
+      <directive name="filter" value="(osgi.wiring.package=javax.management.timer)"/>
+      <directive name="resolution" value="optional"/>
+    </requirement>
+    <requirement namespace="osgi.wiring.package">
+      <directive name="filter" value="(osgi.wiring.package=javax.print.attribute.standard)"/>
+      <directive name="resolution" value="optional"/>
+    </requirement>
+    <requirement namespace="osgi.wiring.package">
+      <directive name="filter" value="(osgi.wiring.package=javax.rmi.ssl)"/>
+      <directive name="resolution" value="optional"/>
+    </requirement>
+    <requirement namespace="osgi.wiring.package">
+      <directive name="filter" value="(osgi.wiring.package=javax.script)"/>
+      <directive name="resolution" value="optional"/>
+    </requirement>
+    <requirement namespace="osgi.wiring.package">
+      <directive name="filter" value="(osgi.wiring.package=javax.servlet)"/>
+      <directive name="resolution" value="optional"/>
+    </requirement>
+    <requirement namespace="osgi.wiring.package">
+      <directive name="filter" value="(osgi.wiring.package=javax.servlet.http)"/>
+      <directive name="resolution" value="optional"/>
+    </requirement>
+    <requirement namespace="osgi.wiring.package">
+      <directive name="filter" value="(osgi.wiring.package=javax.servlet.jsp)"/>
+      <directive name="resolution" value="optional"/>
+    </requirement>
+    <requirement namespace="osgi.wiring.package">
+      <directive name="filter" value="(osgi.wiring.package=javax.sql)"/>
+      <directive name="resolution" value="optional"/>
+    </requirement>
+    <requirement namespace="osgi.wiring.package">
+      <directive name="filter" value="(osgi.wiring.package=javax.swing)"/>
+      <directive name="resolution" value="optional"/>
+    </requirement>
+    <requirement namespace="osgi.wiring.package">
+      <directive name="filter" value="(osgi.wiring.package=javax.swing.border)"/>
+      <directive name="resolution" value="optional"/>
+    </requirement>
+    <requirement namespace="osgi.wiring.package">
+      <directive name="filter" value="(osgi.wiring.package=javax.swing.event)"/>
+      <directive name="resolution" value="optional"/>
+    </requirement>
+    <requirement namespace="osgi.wiring.package">
+      <directive name="filter" value="(osgi.wiring.package=javax.swing.filechooser)"/>
+      <directive name="resolution" value="optional"/>
+    </requirement>
+    <requirement namespace="osgi.wiring.package">
+      <directive name="filter" value="(osgi.wiring.package=javax.swing.plaf)"/>
+      <directive name="resolution" value="optional"/>
+    </requirement>
+    <requirement namespace="osgi.wiring.package">
+      <directive name="filter" value="(osgi.wiring.package=javax.swing.plaf.metal)"/>
+      <directive name="resolution" value="optional"/>
+    </requirement>
+    <requirement namespace="osgi.wiring.package">
+      <directive name="filter" value="(osgi.wiring.package=javax.swing.table)"/>
+      <directive name="resolution" value="optional"/>
+    </requirement>
+    <requirement namespace="osgi.wiring.package">
+      <directive name="filter" value="(osgi.wiring.package=javax.swing.text)"/>
+      <directive name="resolution" value="optional"/>
+    </requirement>
+    <requirement namespace="osgi.wiring.package">
+      <directive name="filter" value="(osgi.wiring.package=javax.swing.text.html)"/>
+      <directive name="resolution" value="optional"/>
+    </requirement>
+    <requirement namespace="osgi.wiring.package">
+      <directive name="filter" value="(osgi.wiring.package=javax.swing.tree)"/>
+      <directive name="resolution" value="optional"/>
+    </requirement>
+    <requirement namespace="osgi.wiring.package">
+      <directive name="filter" value="(osgi.wiring.package=javax.swing.undo)"/>
+      <directive name="resolution" value="optional"/>
+    </requirement>
+    <requirement namespace="osgi.wiring.package">
+      <directive name="filter" value="(osgi.wiring.package=javax.xml.namespace)"/>
+      <directive name="resolution" value="optional"/>
+    </requirement>
+    <requirement namespace="osgi.wiring.package">
+      <directive name="filter" value="(osgi.wiring.package=javax.xml.parsers)"/>
+      <directive name="resolution" value="optional"/>
+    </requirement>
+    <requirement namespace="osgi.wiring.package">
+      <directive name="filter" value="(osgi.wiring.package=javax.xml.transform)"/>
+      <directive name="resolution" value="optional"/>
+    </requirement>
+    <requirement namespace="osgi.wiring.package">
+      <directive name="filter" value="(osgi.wiring.package=javax.xml.transform.dom)"/>
+      <directive name="resolution" value="optional"/>
+    </requirement>
+    <requirement namespace="osgi.wiring.package">
+      <directive name="filter" value="(osgi.wiring.package=javax.xml.transform.stream)"/>
+      <directive name="resolution" value="optional"/>
+    </requirement>
+    <requirement namespace="osgi.wiring.package">
+      <directive name="filter" value="(osgi.wiring.package=javax.xml.validation)"/>
+      <directive name="resolution" value="optional"/>
+    </requirement>
+    <requirement namespace="osgi.wiring.package">
+      <directive name="filter" value="(osgi.wiring.package=javax.xml.xpath)"/>
+      <directive name="resolution" value="optional"/>
+    </requirement>
+    <requirement namespace="osgi.wiring.package">
+      <directive name="filter" value="(osgi.wiring.package=jline)"/>
+      <directive name="resolution" value="optional"/>
+    </requirement>
+    <requirement namespace="osgi.wiring.package">
+      <directive name="filter" value="(osgi.wiring.package=jline.console)"/>
+      <directive name="resolution" value="optional"/>
+    </requirement>
+    <requirement namespace="osgi.wiring.package">
+      <directive name="filter" value="(osgi.wiring.package=jline.console.completer)"/>
+      <directive name="resolution" value="optional"/>
+    </requirement>
+    <requirement namespace="osgi.wiring.package">
+      <directive name="filter" value="(osgi.wiring.package=jline.console.history)"/>
+      <directive name="resolution" value="optional"/>
+    </requirement>
+    <requirement namespace="osgi.wiring.package">
+      <directive name="filter" value="(osgi.wiring.package=jline.internal)"/>
+      <directive name="resolution" value="optional"/>
+    </requirement>
+    <requirement namespace="osgi.wiring.package">
+      <directive name="filter" value="(osgi.wiring.package=junit.framework)"/>
+      <directive name="resolution" value="optional"/>
+    </requirement>
+    <requirement namespace="osgi.wiring.package">
+      <directive name="filter" value="(osgi.wiring.package=junit.textui)"/>
+      <directive name="resolution" value="optional"/>
+    </requirement>
+    <requirement namespace="osgi.wiring.package">
+      <directive name="filter" value="(osgi.wiring.package=org.apache.bsf)"/>
+      <directive name="resolution" value="optional"/>
+    </requirement>
+    <requirement namespace="osgi.wiring.package">
+      <directive name="filter" value="(osgi.wiring.package=org.apache.bsf.util)"/>
+      <directive name="resolution" value="optional"/>
+    </requirement>
+    <requirement namespace="osgi.wiring.package">
+      <directive name="filter" value="(&amp;(osgi.wiring.package=org.apache.commons.cli)(version&gt;=1.2.0)(!(version&gt;=2.0.0)))"/>
+      <directive name="resolution" value="optional"/>
+    </requirement>
+    <requirement namespace="osgi.wiring.package">
+      <directive name="filter" value="(&amp;(osgi.wiring.package=org.apache.ivy)(version&gt;=2.0.0)(!(version&gt;=3.0.0)))"/>
+      <directive name="resolution" value="optional"/>
+    </requirement>
+    <requirement namespace="osgi.wiring.package">
+      <directive name="filter" value="(&amp;(osgi.wiring.package=org.apache.ivy.core.cache)(version&gt;=2.0.0)(!(version&gt;=3.0.0)))"/>
+      <directive name="resolution" value="optional"/>
+    </requirement>
+    <requirement namespace="osgi.wiring.package">
+      <directive name="filter" value="(&amp;(osgi.wiring.package=org.apache.ivy.core.event)(version&gt;=2.0.0)(!(version&gt;=3.0.0)))"/>
+      <directive name="resolution" value="optional"/>
+    </requirement>
+    <requirement namespace="osgi.wiring.package">
+      <directive name="filter" value="(&amp;(osgi.wiring.package=org.apache.ivy.core.event.download)(version&gt;=2.0.0)(!(version&gt;=3.0.0)))"/>
+      <directive name="resolution" value="optional"/>
+    </requirement>
+    <requirement namespace="osgi.wiring.package">
+      <directive name="filter" value="(&amp;(osgi.wiring.package=org.apache.ivy.core.event.resolve)(version&gt;=2.0.0)(!(version&gt;=3.0.0)))"/>
+      <directive name="resolution" value="optional"/>
+    </requirement>
+    <requirement namespace="osgi.wiring.package">
+      <directive name="filter" value="(&amp;(osgi.wiring.package=org.apache.ivy.core.module.descriptor)(version&gt;=2.0.0)(!(version&gt;=3.0.0)))"/>
+      <directive name="resolution" value="optional"/>
+    </requirement>
+    <requirement namespace="osgi.wiring.package">
+      <directive name="filter" value="(&amp;(osgi.wiring.package=org.apache.ivy.core.module.id)(version&gt;=2.0.0)(!(version&gt;=3.0.0)))"/>
+      <directive name="resolution" value="optional"/>
+    </requirement>
+    <requirement namespace="osgi.wiring.package">
+      <directive name="filter" value="(&amp;(osgi.wiring.package=org.apache.ivy.core.report)(version&gt;=2.0.0)(!(version&gt;=3.0.0)))"/>
+      <directive name="resolution" value="optional"/>
+    </requirement>
+    <requirement namespace="osgi.wiring.package">
+      <directive name="filter" value="(&amp;(osgi.wiring.package=org.apache.ivy.core.resolve)(version&gt;=2.0.0)(!(version&gt;=3.0.0)))"/>
+      <directive name="resolution" value="optional"/>
+    </requirement>
+    <requirement namespace="osgi.wiring.package">
+      <directive name="filter" value="(&amp;(osgi.wiring.package=org.apache.ivy.core.settings)(version&gt;=2.0.0)(!(version&gt;=3.0.0)))"/>
+      <directive name="resolution" value="optional"/>
+    </requirement>
+    <requirement namespace="osgi.wiring.package">
+      <directive name="filter" value="(&amp;(osgi.wiring.package=org.apache.ivy.plugins.matcher)(version&gt;=2.0.0)(!(version&gt;=3.0.0)))"/>
+      <directive name="resolution" value="optional"/>
+    </requirement>
+    <requirement namespace="osgi.wiring.package">
+      <directive name="filter" value="(&amp;(osgi.wiring.package=org.apache.ivy.plugins.resolver)(version&gt;=2.0.0)(!(version&gt;=3.0.0)))"/>
+      <directive name="resolution" value="optional"/>
+    </requirement>
+    <requirement namespace="osgi.wiring.package">
+      <directive name="filter" value="(&amp;(osgi.wiring.package=org.apache.ivy.util)(version&gt;=2.0.0)(!(version&gt;=3.0.0)))"/>
+      <directive name="resolution" value="optional"/>
+    </requirement>
+    <requirement namespace="osgi.wiring.package">
+      <directive name="filter" value="(osgi.wiring.package=org.apache.tools.ant)"/>
+      <directive name="resolution" value="optional"/>
+    </requirement>
+    <requirement namespace="osgi.wiring.package">
+      <directive name="filter" value="(osgi.wiring.package=org.apache.tools.ant.dispatch)"/>
+      <directive name="resolution" value="optional"/>
+    </requirement>
+    <requirement namespace="osgi.wiring.package">
+      <directive name="filter" value="(osgi.wiring.package=org.apache.tools.ant.helper)"/>
+      <directive name="resolution" value="optional"/>
+    </requirement>
+    <requirement namespace="osgi.wiring.package">
+      <directive name="filter" value="(osgi.wiring.package=org.apache.tools.ant.taskdefs)"/>
+      <directive name="resolution" value="optional"/>
+    </requirement>
+    <requirement namespace="osgi.wiring.package">
+      <directive name="filter" value="(osgi.wiring.package=org.apache.tools.ant.types)"/>
+      <directive name="resolution" value="optional"/>
+    </requirement>
+    <requirement namespace="osgi.wiring.package">
+      <directive name="filter" value="(osgi.wiring.package=org.apache.tools.ant.util)"/>
+      <directive name="resolution" value="optional"/>
+    </requirement>
+    <requirement namespace="osgi.wiring.package">
+      <directive name="filter" value="(&amp;(osgi.wiring.package=org.fusesource.jansi)(version&gt;=1.11.0)(!(version&gt;=2.0.0)))"/>
+      <directive name="resolution" value="optional"/>
+    </requirement>
+    <requirement namespace="osgi.wiring.package">
+      <directive name="filter" value="(osgi.wiring.package=org.junit)"/>
+      <directive name="resolution" value="optional"/>
+    </requirement>
+    <requirement namespace="osgi.wiring.package">
+      <directive name="filter" value="(osgi.wiring.package=org.w3c.dom)"/>
+      <directive name="resolution" value="optional"/>
+    </requirement>
+    <requirement namespace="osgi.wiring.package">
+      <directive name="filter" value="(osgi.wiring.package=org.xml.sax)"/>
+      <directive name="resolution" value="optional"/>
+    </requirement>
+    <requirement namespace="osgi.wiring.package">
+      <directive name="filter" value="(osgi.wiring.package=org.xml.sax.ext)"/>
+      <directive name="resolution" value="optional"/>
+    </requirement>
+    <requirement namespace="osgi.wiring.package">
+      <directive name="filter" value="(osgi.wiring.package=org.xml.sax.helpers)"/>
+      <directive name="resolution" value="optional"/>
+    </requirement>
+    <requirement namespace="osgi.wiring.package">
+      <directive name="filter" value="(osgi.wiring.package=sun.awt)"/>
+      <directive name="resolution" value="optional"/>
+    </requirement>
+    <requirement namespace="osgi.wiring.package">
+      <directive name="filter" value="(osgi.wiring.package=sun.java2d.pipe)"/>
+      <directive name="resolution" value="optional"/>
+    </requirement>
+    <requirement namespace="osgi.wiring.package">
+      <directive name="filter" value="(osgi.wiring.package=sun.misc)"/>
+      <directive name="resolution" value="optional"/>
+    </requirement>
+  </resource>
+  <resource>
+    <capability namespace="osgi.identity">
+      <attribute name="osgi.identity" value="org.knowhowlab.osgi.testing.assertions"/>
+      <attribute name="type" value="osgi.bundle"/>
+      <attribute name="version" type="Version" value="1.2.2"/>
+    </capability>
+    <capability namespace="osgi.content">
+      <attribute name="osgi.content" value="ee29a994f267f932949d094829aa366315119e1f5d39d4e838e3bf7f35d7c675"/>
+      <attribute name="url" value="org.knowhowlab.osgi.testing.assertions/org.knowhowlab.osgi.testing.assertions-1.2.2.jar"/>
+      <attribute name="size" type="Long" value="19166"/>
+      <attribute name="mime" value="application/vnd.osgi.bundle"/>
+    </capability>
+    <capability namespace="osgi.wiring.bundle">
+      <attribute name="osgi.wiring.bundle" value="org.knowhowlab.osgi.testing.assertions"/>
+      <attribute name="bundle-version" type="Version" value="1.2.2"/>
+    </capability>
+    <capability namespace="osgi.wiring.host">
+      <attribute name="osgi.wiring.host" value="org.knowhowlab.osgi.testing.assertions"/>
+      <attribute name="bundle-version" type="Version" value="1.2.2"/>
+    </capability>
+    <capability namespace="osgi.wiring.package">
+      <attribute name="osgi.wiring.package" value="org.knowhowlab.osgi.testing.assertions"/>
+      <attribute name="version" type="Version" value="1.1.0"/>
+      <attribute name="bundle-symbolic-name" value="org.knowhowlab.osgi.testing.assertions"/>
+      <attribute name="bundle-version" type="Version" value="1.2.2"/>
+      <directive name="uses" value="org.osgi.framework,org.osgi.service.packageadmin,org.knowhowlab.osgi.testing.utils,org.junit"/>
+    </capability>
+    <capability namespace="osgi.wiring.package">
+      <attribute name="osgi.wiring.package" value="org.knowhowlab.osgi.testing.assertions.cmpn"/>
+      <attribute name="version" type="Version" value="1.0.0"/>
+      <attribute name="bundle-symbolic-name" value="org.knowhowlab.osgi.testing.assertions"/>
+      <attribute name="bundle-version" type="Version" value="1.2.2"/>
+      <directive name="uses" value="org.knowhowlab.osgi.testing.assertions,org.knowhowlab.osgi.testing.utils.cmpn,org.osgi.framework,org.osgi.service.cm,org.junit,org.osgi.service.event"/>
+    </capability>
+    <requirement namespace="osgi.wiring.package">
+      <directive name="filter" value="(osgi.wiring.package=org.junit)"/>
+    </requirement>
+    <requirement namespace="osgi.wiring.package">
+      <directive name="filter" value="(&amp;(osgi.wiring.package=org.knowhowlab.osgi.testing.utils)(version&gt;=1.2.0)(!(version&gt;=2.0.0)))"/>
+    </requirement>
+    <requirement namespace="osgi.wiring.package">
+      <directive name="filter" value="(&amp;(osgi.wiring.package=org.knowhowlab.osgi.testing.utils.cmpn)(version&gt;=1.0.0)(!(version&gt;=2.0.0)))"/>
+    </requirement>
+    <requirement namespace="osgi.wiring.package">
+      <directive name="filter" value="(&amp;(osgi.wiring.package=org.osgi.framework)(version&gt;=1.5.0)(!(version&gt;=2.0.0)))"/>
+    </requirement>
+    <requirement namespace="osgi.wiring.package">
+      <directive name="filter" value="(&amp;(osgi.wiring.package=org.osgi.service.cm)(version&gt;=1.3.0)(!(version&gt;=2.0.0)))"/>
+      <directive name="resolution" value="optional"/>
+    </requirement>
+    <requirement namespace="osgi.wiring.package">
+      <directive name="filter" value="(&amp;(osgi.wiring.package=org.osgi.service.event)(version&gt;=1.2.0)(!(version&gt;=2.0.0)))"/>
+      <directive name="resolution" value="optional"/>
+    </requirement>
+    <requirement namespace="osgi.wiring.package">
+      <directive name="filter" value="(&amp;(osgi.wiring.package=org.osgi.service.packageadmin)(version&gt;=1.2.0)(!(version&gt;=2.0.0)))"/>
+    </requirement>
+    <requirement namespace="osgi.ee">
+      <directive name="filter" value="(&amp;(osgi.ee=JavaSE)(version=1.5))"/>
+    </requirement>
+  </resource>
+  <resource>
+    <capability namespace="osgi.identity">
+      <attribute name="osgi.identity" value="org.knowhowlab.osgi.testing.utils"/>
+      <attribute name="type" value="osgi.bundle"/>
+      <attribute name="version" type="Version" value="1.2.2"/>
+    </capability>
+    <capability namespace="osgi.content">
+      <attribute name="osgi.content" value="d1ede81e4584a39674a238d580ca6c93b85eb710aa59e00307be9e0e6bead4c2"/>
+      <attribute name="url" value="org.knowhowlab.osgi.testing.utils/org.knowhowlab.osgi.testing.utils-1.2.2.jar"/>
+      <attribute name="size" type="Long" value="50896"/>
+      <attribute name="mime" value="application/vnd.osgi.bundle"/>
+    </capability>
+    <capability namespace="osgi.wiring.bundle">
+      <attribute name="osgi.wiring.bundle" value="org.knowhowlab.osgi.testing.utils"/>
+      <attribute name="bundle-version" type="Version" value="1.2.2"/>
+    </capability>
+    <capability namespace="osgi.wiring.host">
+      <attribute name="osgi.wiring.host" value="org.knowhowlab.osgi.testing.utils"/>
+      <attribute name="bundle-version" type="Version" value="1.2.2"/>
+    </capability>
+    <capability namespace="osgi.wiring.package">
+      <attribute name="osgi.wiring.package" value="org.knowhowlab.osgi.testing.utils.cmpn"/>
+      <attribute name="version" type="Version" value="1.0.0"/>
+      <attribute name="bundle-symbolic-name" value="org.knowhowlab.osgi.testing.utils"/>
+      <attribute name="bundle-version" type="Version" value="1.2.2"/>
+      <directive name="uses" value="org.osgi.service.cm,org.osgi.framework,org.knowhowlab.osgi.testing.utils,org.osgi.service.event"/>
+    </capability>
+    <capability namespace="osgi.wiring.package">
+      <attribute name="osgi.wiring.package" value="org.knowhowlab.osgi.testing.utils"/>
+      <attribute name="version" type="Version" value="1.2.0"/>
+      <attribute name="bundle-symbolic-name" value="org.knowhowlab.osgi.testing.utils"/>
+      <attribute name="bundle-version" type="Version" value="1.2.2"/>
+      <directive name="uses" value="org.osgi.framework,org.osgi.util.tracker,org.osgi.service.packageadmin"/>
+    </capability>
+    <requirement namespace="osgi.wiring.package">
+      <directive name="filter" value="(&amp;(osgi.wiring.package=org.osgi.framework)(version&gt;=1.5.0)(!(version&gt;=2.0.0)))"/>
+    </requirement>
+    <requirement namespace="osgi.wiring.package">
+      <directive name="filter" value="(&amp;(osgi.wiring.package=org.osgi.service.cm)(version&gt;=1.3.0)(!(version&gt;=2.0.0)))"/>
+      <directive name="resolution" value="optional"/>
+    </requirement>
+    <requirement namespace="osgi.wiring.package">
+      <directive name="filter" value="(&amp;(osgi.wiring.package=org.osgi.service.event)(version&gt;=1.2.0)(!(version&gt;=2.0.0)))"/>
+      <directive name="resolution" value="optional"/>
+    </requirement>
+    <requirement namespace="osgi.wiring.package">
+      <directive name="filter" value="(&amp;(osgi.wiring.package=org.osgi.service.packageadmin)(version&gt;=1.2.0)(!(version&gt;=2.0.0)))"/>
+    </requirement>
+    <requirement namespace="osgi.wiring.package">
+      <directive name="filter" value="(&amp;(osgi.wiring.package=org.osgi.util.tracker)(version&gt;=1.4.0)(!(version&gt;=2.0.0)))"/>
+    </requirement>
+    <requirement namespace="osgi.ee">
+      <directive name="filter" value="(&amp;(osgi.ee=JavaSE)(version=1.5))"/>
+    </requirement>
+  </resource>
+</repository>
